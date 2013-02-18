@@ -3,7 +3,7 @@
 when there are Matrics support in Perl6)
 ## TODO
 
-add pod 
-more complete functions
+### add pod 
+### more complete functions
 
 ##
