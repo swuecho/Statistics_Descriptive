@@ -1,4 +1,4 @@
-module Statistics::Descriptics;
+module Statistics::Descriptive;
 
 sub mean(@data) is export {
    ([+] @data) / @data;
