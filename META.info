@@ -4,5 +4,5 @@
     "description" : "Basic Descriptive Function as in R",
     "author" : "Hao Wu",
     "depends" : [ ],
-    "source-url" : "git://github.com/swuecho/Vortex-TotalPerspective.git"
+    "source-url" : "git://github.com/swuecho/Statistics.git"
 }
