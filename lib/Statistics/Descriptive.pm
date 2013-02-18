@@ -1,4 +1,7 @@
 module Statistics::Descriptive;
+sub range(@data) is export {
+	max @data, min @data;
+}
 
 sub mean(@data) is export {
    ([+] @data) / @data;
@@ -36,4 +39,20 @@ sub pmin (@a, @b) is export {
 
 sub pmax (@a,@b)  is export {
 	@a >>max<< @b;
+}
+sub fivenum(@data) is export {
+...
+}
+
+sub IQR(@data) is export {
+...
+}
+
+
+sub fivenum(@data) is export {
+}
+
+sub summary(@data) is export {
+...
+
 }
