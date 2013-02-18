@@ -2,7 +2,7 @@
     "name" : "Statistics::Descriptive",
     "version" : "0.1.0",
     "description" : "Basic Descriptive Function as in R",
-    "author" : "Hao Wu",
+    "author" : "Hao Wu <echowuhao@gmail.com>",
     "depends" : [ ],
     "source-url" : "git://github.com/swuecho/Statistics.git"
 }
